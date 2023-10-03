@@ -521,7 +521,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-023eeb22cded4814b79152b6b27d254a"
             targetConnections="id-75cb045fe1424b8588820019e1cdf050"
-            fillColor="#ff8080">
+            fillColor="#80ff80">
           <bounds
               x="12"
               y="24"
@@ -549,7 +549,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-55da9e8788c64d9c86432c2acf3bf2a5"
             targetConnections="id-15d6c9ec16714f52adf94e0bd73d5466"
-            fillColor="#ff8080">
+            fillColor="#80ff80">
           <bounds
               x="12"
               y="84"
