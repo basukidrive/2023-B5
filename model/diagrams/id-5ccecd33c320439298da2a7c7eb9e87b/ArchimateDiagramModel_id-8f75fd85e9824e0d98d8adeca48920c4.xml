@@ -5,6 +5,18 @@
     id="id-8f75fd85e9824e0d98d8adeca48920c4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-55bdd6da3de2431397ffc772f43a2f40">
+    <bounds
+        x="84"
+        y="109"
+        width="612"
+        height="276"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-09c775b851ac47a0a3d8ea00119deb03.xml#id-09c775b851ac47a0a3d8ea00119deb03"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-080980ea8370476f80ce095ba949c2a8"
       targetConnections="id-46ee73da869c4cb284174287e0b7c8ad id-fe13a023fa3e48b09085f1ac40e1925e">
     <sourceConnections
