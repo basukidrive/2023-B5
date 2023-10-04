@@ -26,10 +26,15 @@
         source="id-282ba3334d6d4d7caf34c27456a1a9d3"
         target="id-61340c385ab14aa0b27c57dcd6852117">
       <bendpoints
-          startX="-312"
-          startY="-30"
-          endX="-24"
-          endY="153"/>
+          startX="-30"
+          startY="-41"
+          endX="258"
+          endY="142"/>
+      <bendpoints
+          startX="-306"
+          startY="-41"
+          endX="-18"
+          endY="142"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-b74abdf23afe42ac9e9818349438aa7b.xml#id-b74abdf23afe42ac9e9818349438aa7b"/>
