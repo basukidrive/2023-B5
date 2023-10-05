@@ -3,6 +3,8 @@
     name="Ref. Jabatan"
     id="id-2387dd7f5bb9497abfc6065bc4dfbeb6">
   <properties
+      key="IdJabatan"/>
+  <properties
       key="KodeJabatan"/>
   <properties
       key="NamaJabatan"/>

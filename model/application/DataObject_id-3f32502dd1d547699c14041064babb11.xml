@@ -3,6 +3,8 @@
     name="Ref. Status Tanggungan"
     id="id-3f32502dd1d547699c14041064babb11">
   <properties
+      key="IdStatusTanggungan"/>
+  <properties
       key="Kartu Keluarga"
       value="Nomor kartu keluarga"/>
   <properties

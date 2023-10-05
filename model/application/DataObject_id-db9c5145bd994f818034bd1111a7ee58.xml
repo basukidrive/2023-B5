@@ -3,6 +3,8 @@
     name="Ref. Kota"
     id="id-db9c5145bd994f818034bd1111a7ee58">
   <properties
+      key="IdKota"/>
+  <properties
       key="NamaKota"/>
   <properties
       key="NamaProvinsi"/>

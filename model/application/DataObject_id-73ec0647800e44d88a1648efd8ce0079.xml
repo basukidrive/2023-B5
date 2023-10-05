@@ -3,6 +3,8 @@
     name="Ref. Status Pegawai"
     id="id-73ec0647800e44d88a1648efd8ce0079">
   <properties
+      key="IdStatusPegawai"/>
+  <properties
       key="aktif"
       value="status pegawai aktif"/>
   <properties

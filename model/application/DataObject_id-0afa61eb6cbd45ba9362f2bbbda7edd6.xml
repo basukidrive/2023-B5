@@ -3,6 +3,8 @@
     name="Ref. Status Pernikahan"
     id="id-0afa61eb6cbd45ba9362f2bbbda7edd6">
   <properties
+      key="IdStatusPernikahan"/>
+  <properties
       key="Status"
       value="kawin, belum kawin, cerai hidup, atau cerai mati"/>
   <properties

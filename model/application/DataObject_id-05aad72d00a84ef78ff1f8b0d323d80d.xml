@@ -3,6 +3,8 @@
     name="Ref. Hubungan"
     id="id-05aad72d00a84ef78ff1f8b0d323d80d">
   <properties
+      key="IdHubungan"/>
+  <properties
       key="NamaHubungan"/>
   <properties
       key="JenisHubungan"/>

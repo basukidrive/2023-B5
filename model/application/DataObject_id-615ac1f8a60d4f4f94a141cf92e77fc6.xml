@@ -3,6 +3,8 @@
     name="Ref. Jabatan GPP"
     id="id-615ac1f8a60d4f4f94a141cf92e77fc6">
   <properties
+      key="IdJabatanGPP"/>
+  <properties
       key="KodeJabatanGPP"/>
   <properties
       key="NamaJabatanGPP"/>

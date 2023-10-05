@@ -3,9 +3,7 @@
     name="Ref. Status Mutasi"
     id="id-ca7150334a1c43b6af9b95e375a0fc7d">
   <properties
-      key="Nama"/>
-  <properties
-      key="NIP"/>
+      key="IdStatusMutasi"/>
   <properties
       key="TglMutasi"/>
   <properties

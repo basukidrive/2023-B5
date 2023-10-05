@@ -3,6 +3,8 @@
     name="Ref. Tingkat Pendidikan"
     id="id-80ba0bc64a1e4681ba9060604eafb3b5">
   <properties
+      key="IdTkPendidikan"/>
+  <properties
       key="InstitusiPendidikan"/>
   <properties
       key="Jurusan"/>
