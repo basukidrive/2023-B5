@@ -1,7 +1,7 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Keahlian "
-    id="id-fdda4e4186c94e71aca2e05037153a2c">
+    name="Data Keahlian"
+    id="id-b1da7aa99f8d42a5b38d52f1b7920a82">
   <properties
       key="IDPegawai"
       value="ID Pegawai"/>
