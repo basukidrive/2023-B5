@@ -1,4 +1,17 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Status Pernikahan"
-    id="id-0afa61eb6cbd45ba9362f2bbbda7edd6"/>
+    id="id-0afa61eb6cbd45ba9362f2bbbda7edd6">
+  <properties
+      key="Status"
+      value="kawin, belum kawin, cerai hidup, atau cerai mati"/>
+  <properties
+      key="Tanggal"
+      value="tanggal terjadinya pernikahan atau perceraian"/>
+  <properties
+      key="JmlTanggungan"
+      value="Jumlah tanggungan yang dimiliki "/>
+  <properties
+      key="NomorAkta"
+      value="nomor akta nikah atau perceraian"/>
+</archimate:DataObject>

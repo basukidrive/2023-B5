@@ -1,4 +1,14 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Kelas BPJS"
-    id="id-57e2034045ed4e858cc6aeee76d74147"/>
+    id="id-57e2034045ed4e858cc6aeee76d74147">
+  <properties
+      key="Nama"
+      value="Nama Pegawai"/>
+  <properties
+      key="Nip"
+      value="NIP Pegawai"/>
+  <properties
+      key="Golongan"
+      value="Golongan Pegawai"/>
+</archimate:DataObject>

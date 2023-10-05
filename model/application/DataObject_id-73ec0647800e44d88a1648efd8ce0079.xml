@@ -1,4 +1,11 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Status Pegawai"
-    id="id-73ec0647800e44d88a1648efd8ce0079"/>
+    id="id-73ec0647800e44d88a1648efd8ce0079">
+  <properties
+      key="aktif"
+      value="status pegawai aktif"/>
+  <properties
+      key="nonaktif"
+      value="status pegawai non aktif"/>
+</archimate:DataObject>
