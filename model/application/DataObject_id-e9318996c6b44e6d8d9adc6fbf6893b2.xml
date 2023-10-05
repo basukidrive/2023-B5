@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="R_Kelas BPJS"
+    id="id-e9318996c6b44e6d8d9adc6fbf6893b2">
+  <properties
+      key="Nama"
+      value="Nama Pegawai"/>
+  <properties
+      key="Nip"
+      value="NIP Pegawai"/>
+  <properties
+      key="Golongan"
+      value="Golongan Pegawai"/>
+</archimate:DataObject>
