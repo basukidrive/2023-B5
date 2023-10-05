@@ -2,5 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Status Hidup"
     id="id-39c8c670ffc14ba297dcd86b20c4d13e">
-  <properties/>
+  <properties
+      key="IdStatusHidup"/>
+  <properties
+      key="StatusHidup"/>
 </archimate:DataObject>

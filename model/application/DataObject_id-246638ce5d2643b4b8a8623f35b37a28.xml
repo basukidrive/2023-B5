@@ -1,4 +1,13 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Hukdis"
-    id="id-246638ce5d2643b4b8a8623f35b37a28"/>
+    id="id-246638ce5d2643b4b8a8623f35b37a28">
+  <properties
+      key="IdHukdis"/>
+  <properties
+      key="JenisPelanggaran"/>
+  <properties
+      key="JenisSanksi"/>
+  <properties
+      key="DurasiHukuman"/>
+</archimate:DataObject>

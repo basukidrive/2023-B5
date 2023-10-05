@@ -1,4 +1,16 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Gaji Pokok"
-    id="id-ac62e56c54ad41e9bdf4536b34834288"/>
+    id="id-ac62e56c54ad41e9bdf4536b34834288">
+  <properties
+      key="IdGajiPoko"/>
+  <properties
+      key="JmlGajiPokok"
+      value="Jumlah Gaji Pokok"/>
+  <properties
+      key="PeriodeGajiPokok"
+      value="Periode waktu yang mencakup seberapa sering atau lama gaji pokok tersebut dibayarkan "/>
+  <properties
+      key="StatusGajiPokok"
+      value="Aktif atau Non Aktif"/>
+</archimate:DataObject>

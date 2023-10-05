@@ -1,4 +1,15 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Tingkat Pendidikan"
-    id="id-80ba0bc64a1e4681ba9060604eafb3b5"/>
+    id="id-80ba0bc64a1e4681ba9060604eafb3b5">
+  <properties
+      key="IdTkPendidikan"/>
+  <properties
+      key="InstitusiPendidikan"/>
+  <properties
+      key="Jurusan"/>
+  <properties
+      key="Gelar"/>
+  <properties
+      key="TanggalLulus"/>
+</archimate:DataObject>

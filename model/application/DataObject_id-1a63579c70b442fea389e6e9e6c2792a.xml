@@ -1,4 +1,11 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. SK Pangkat"
-    id="id-1a63579c70b442fea389e6e9e6c2792a"/>
+    id="id-1a63579c70b442fea389e6e9e6c2792a">
+  <properties
+      key="IdSKPangkat"/>
+  <properties
+      key="NomorSK"/>
+  <properties
+      key="TanggalSK"/>
+</archimate:DataObject>

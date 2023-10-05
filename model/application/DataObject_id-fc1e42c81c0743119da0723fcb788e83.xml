@@ -1,4 +1,15 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Uraian Unit"
-    id="id-fc1e42c81c0743119da0723fcb788e83"/>
+    id="id-fc1e42c81c0743119da0723fcb788e83">
+  <properties
+      key="IdUraianUnit"/>
+  <properties
+      key="DeskripsiUnit"/>
+  <properties
+      key="StrukturOrganisasi"/>
+  <properties
+      key="RiwayatUnit"/>
+  <properties
+      key="LokasiUnit"/>
+</archimate:DataObject>
