@@ -1,4 +1,11 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Hubungan"
-    id="id-05aad72d00a84ef78ff1f8b0d323d80d"/>
+    id="id-05aad72d00a84ef78ff1f8b0d323d80d">
+  <properties
+      key="NamaHubungan"/>
+  <properties
+      key="JenisHubungan"/>
+  <properties
+      key="StatusHubungan"/>
+</archimate:DataObject>

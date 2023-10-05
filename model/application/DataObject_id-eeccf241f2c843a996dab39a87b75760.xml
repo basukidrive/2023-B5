@@ -1,4 +1,17 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Tunjangan Jabatan"
-    id="id-eeccf241f2c843a996dab39a87b75760"/>
+    id="id-eeccf241f2c843a996dab39a87b75760">
+  <properties
+      key="IdTunjanganJabatan"/>
+  <properties
+      key="NamaTunjangan"/>
+  <properties
+      key="StatusTunjangan"/>
+  <properties
+      key="TanggalMulai"
+      value="Tanggal ketika pegawai mulai memenuhi syarat untuk menerima tunjangan"/>
+  <properties
+      key="TanggalBerakhir"
+      value="Tanggal ketika pegawai tidak lagi memenuhi syarat atau tunjangan tersebut berakhir"/>
+</archimate:DataObject>

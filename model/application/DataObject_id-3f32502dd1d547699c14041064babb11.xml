@@ -1,4 +1,23 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Status Tanggungan"
-    id="id-3f32502dd1d547699c14041064babb11"/>
+    id="id-3f32502dd1d547699c14041064babb11">
+  <properties
+      key="Kartu Keluarga"
+      value="Nomor kartu keluarga"/>
+  <properties
+      key="NamaKeluarga"
+      value="Nama lengkap dari anggota keluarga yang menjadi tanggungan pegawai"/>
+  <properties
+      key="Hubungan"
+      value="Hubungan antara anggota keluarga dengan pegawai"/>
+  <properties
+      key="Tanggal Lahir"
+      value="Tanggal lahir anggota keluarga yang menjadi tanggungan"/>
+  <properties
+      key="Status Pernikahan"
+      value="Status pernikahan anggota keluarga"/>
+  <properties
+      key="StatusTanggungan"
+      value="anggota keluarga tersebut masih menjadi tanggungan pegawai atau tidak"/>
+</archimate:DataObject>

@@ -1,4 +1,11 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Uraian Jabatan"
-    id="id-f85ca3af7cfd41a0b3fc16c167bbae18"/>
+    id="id-f85ca3af7cfd41a0b3fc16c167bbae18">
+  <properties
+      key="IdJabatan"/>
+  <properties
+      key="NamaJabatan"/>
+  <properties
+      key="DeskripsiJabatan"/>
+</archimate:DataObject>

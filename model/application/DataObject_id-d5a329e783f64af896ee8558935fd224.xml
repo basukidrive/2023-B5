@@ -1,4 +1,15 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Mutasi Tunjangan"
-    id="id-d5a329e783f64af896ee8558935fd224"/>
+    id="id-d5a329e783f64af896ee8558935fd224">
+  <properties
+      key="IdMutasiTunjangan"/>
+  <properties
+      key="TanggalMutasi"/>
+  <properties
+      key="Jabatan"/>
+  <properties
+      key="NilaiTunjangan"/>
+  <properties
+      key="StatusTunjangan"/>
+</archimate:DataObject>

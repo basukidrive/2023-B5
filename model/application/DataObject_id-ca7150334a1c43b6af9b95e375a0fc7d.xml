@@ -1,4 +1,15 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Status Mutasi"
-    id="id-ca7150334a1c43b6af9b95e375a0fc7d"/>
+    id="id-ca7150334a1c43b6af9b95e375a0fc7d">
+  <properties
+      key="Nama"/>
+  <properties
+      key="NIP"/>
+  <properties
+      key="TglMutasi"/>
+  <properties
+      key="JabatanBaru"/>
+  <properties
+      key="UnitBaru"/>
+</archimate:DataObject>

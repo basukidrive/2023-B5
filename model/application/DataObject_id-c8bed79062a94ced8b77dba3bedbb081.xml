@@ -1,4 +1,14 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Grading"
-    id="id-c8bed79062a94ced8b77dba3bedbb081"/>
+    id="id-c8bed79062a94ced8b77dba3bedbb081">
+  <properties
+      key="Jabatan"
+      value="Status Jabatan"/>
+  <properties
+      key="Pendidikan"
+      value="Tingkat Pendidikan"/>
+  <properties
+      key="Kinerja"
+      value="Baik Sekali, Baik, Cukup"/>
+</archimate:DataObject>

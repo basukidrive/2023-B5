@@ -1,4 +1,19 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Peraturan"
-    id="id-f79e042520b24e009b7a6a222b3ae666"/>
+    id="id-f79e042520b24e009b7a6a222b3ae666">
+  <properties
+      key="NamaPeraturan"/>
+  <properties
+      key="NomorPeraturan"/>
+  <properties
+      key="TanggalEfektif"/>
+  <properties
+      key="Departmen"
+      value="Bagian organisasi yang bertanggung jawab atas peraturan tersebut"/>
+  <properties
+      key="LingkupPeraturan"
+      value="Ruang lingkup dari peraturan"/>
+  <properties
+      key="StatusPeraturan"/>
+</archimate:DataObject>

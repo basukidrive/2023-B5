@@ -1,4 +1,14 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref. Pangkat"
-    id="id-df6ef9bb639f4142adcb9e9561a2dbe8"/>
+    id="id-df6ef9bb639f4142adcb9e9561a2dbe8">
+  <properties
+      key="IdPangkat"/>
+  <properties
+      key="Kode Pangkat"/>
+  <properties
+      key="StatusPangkat"/>
+  <properties
+      key="RiwayatPangkat"/>
+  <properties/>
+</archimate:DataObject>
