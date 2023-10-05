@@ -1,4 +1,15 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data User"
-    id="id-270808c7a86d4695a356e62258c37adf"/>
+    id="id-270808c7a86d4695a356e62258c37adf">
+  <properties
+      key="IDPegawai"
+      value="id pegawai"/>
+  <properties
+      key="Username"
+      value="username"/>
+  <properties
+      key="Password"
+      value="password"/>
+  <properties/>
+</archimate:DataObject>
