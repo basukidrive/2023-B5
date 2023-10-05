@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aplikasi Usage Integrasi"
+    name="Aplikasi Usage Integrasi-BATAL"
     id="id-c181fb7fe5f6441bb8cbe83de03ad4f1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -430,21 +430,21 @@
       id="id-6fce5c4af8e543448383e291249a25e0">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-245d5c88bf86418b91df3ddd02e7b8a4"
-        source="id-6fce5c4af8e543448383e291249a25e0"
-        target="id-2fde447480b24666b72db637ce84bc7d">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-12bfea3c89e2493fb3b348b9c360ed63.xml#id-12bfea3c89e2493fb3b348b9c360ed63"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d328dd185a8f47da894a0638f357d6d5"
         source="id-6fce5c4af8e543448383e291249a25e0"
         target="id-5744113d33b84581b5256636cfbd1806">
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-b5451db12cf540f8a691d104e3cc9618.xml#id-b5451db12cf540f8a691d104e3cc9618"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-245d5c88bf86418b91df3ddd02e7b8a4"
+        source="id-6fce5c4af8e543448383e291249a25e0"
+        target="id-2fde447480b24666b72db637ce84bc7d">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-12bfea3c89e2493fb3b348b9c360ed63.xml#id-12bfea3c89e2493fb3b348b9c360ed63"/>
     </sourceConnections>
     <bounds
         x="720"

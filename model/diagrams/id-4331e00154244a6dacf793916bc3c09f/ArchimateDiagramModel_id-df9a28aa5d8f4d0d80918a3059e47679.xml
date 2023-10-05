@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bisnis Catalog"
+    name="2. Bisnis Catalog"
     id="id-df9a28aa5d8f4d0d80918a3059e47679">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -388,9 +388,9 @@
               targetConnections="id-7429513fb628405da88635a1d3e0d575"
               fillColor="#ffffa8">
             <bounds
-                x="48"
+                x="12"
                 y="24"
-                width="120"
+                width="180"
                 height="55"/>
             <archimateElement
                 xsi:type="archimate:BusinessProcess"
@@ -402,9 +402,9 @@
               targetConnections="id-efc4f58daae84dfdbd191000d7fe67d7"
               fillColor="#ffffa8">
             <bounds
-                x="48"
+                x="12"
                 y="84"
-                width="120"
+                width="180"
                 height="55"/>
             <archimateElement
                 xsi:type="archimate:BusinessProcess"
@@ -521,7 +521,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-023eeb22cded4814b79152b6b27d254a"
             targetConnections="id-75cb045fe1424b8588820019e1cdf050"
-            fillColor="#80ff80">
+            fillColor="#ffffa8">
           <bounds
               x="12"
               y="24"

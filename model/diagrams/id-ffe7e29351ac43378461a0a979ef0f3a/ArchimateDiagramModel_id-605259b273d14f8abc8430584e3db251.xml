@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aplikasi Catalog"
+    name="1. Aplikasi Catalog"
     id="id-605259b273d14f8abc8430584e3db251">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -317,7 +317,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-26468218065e4120aa4e126ab38662f3"
-            fillColor="#80ff80">
+            fillColor="#80ffff">
           <bounds
               x="276"
               y="180"
@@ -450,7 +450,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-563a222223de43fe8698430823c78c8c"
             targetConnections="id-204c4b6b301e44c38670514a2083884e"
-            fillColor="#80ff80">
+            fillColor="#80ffff">
           <bounds
               x="24"
               y="24"
@@ -464,7 +464,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-77cbadde24344e9e8a00f4cf2779bde1"
             targetConnections="id-4f0ebe7764df4a7389714b7305386667"
-            fillColor="#80ff80">
+            fillColor="#80ffff">
           <bounds
               x="168"
               y="24"
@@ -548,7 +548,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-5e4aa8e43aca4cbf890de8ba673b9792"
             targetConnections="id-71e2806ab49645db85a1a64c550b5a46"
-            fillColor="#80ff80">
+            fillColor="#80ffff">
           <bounds
               x="48"
               y="24"
@@ -562,7 +562,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-d5550a0d40b2413c9305f018a0e79399"
             targetConnections="id-3fd292263f3544889338d100d0f2f75b"
-            fillColor="#80ff80">
+            fillColor="#80ffff">
           <bounds
               x="228"
               y="24"
