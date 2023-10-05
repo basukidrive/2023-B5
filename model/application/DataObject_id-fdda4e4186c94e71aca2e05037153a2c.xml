@@ -1,4 +1,11 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Keahlian "
-    id="id-fdda4e4186c94e71aca2e05037153a2c"/>
+    id="id-fdda4e4186c94e71aca2e05037153a2c">
+  <properties
+      key="IDPegawai"
+      value="ID Pegawai"/>
+  <properties
+      key="IDRefDataKeahlian"
+      value="foreign key ke data ref data keluarga"/>
+</archimate:DataObject>

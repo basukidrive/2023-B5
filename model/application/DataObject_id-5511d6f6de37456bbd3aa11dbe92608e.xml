@@ -1,4 +1,20 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Role"
-    id="id-5511d6f6de37456bbd3aa11dbe92608e"/>
+    id="id-5511d6f6de37456bbd3aa11dbe92608e">
+  <properties
+      key="NamaRole"
+      value="Uraian Nama Role"/>
+  <properties
+      key="NamaAplikasi"
+      value="Nama Aplikasi"/>
+  <properties
+      key="Urutan"
+      value="Urutan Role"/>
+  <properties
+      key="isAdmin"
+      value="Apakah role termasuk administrator"/>
+  <properties
+      key="LingkupEselon"
+      value="Eselon"/>
+</archimate:DataObject>

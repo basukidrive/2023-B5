@@ -1,0 +1,38 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unit Eselon III"
+    id="id-d3d5f74373a642e49a81e1d371fa48a1">
+  <properties
+      key="Nama Organisasi"
+      value="Nama Organisasi"/>
+  <properties
+      key="TanggalMulai"
+      value="Tanggal Mulai Organisasi"/>
+  <properties
+      key="TanggalSelesai"
+      value="Tanggal Selesai Organisasi"/>
+  <properties
+      key="Aktif"
+      value="Status Aktif/Tidak Aktif Organisasi"/>
+  <properties
+      key="Eselon"
+      value="Eselon Organisasi"/>
+  <properties
+      key="Urutan"
+      value="Urutan Organisasi"/>
+  <properties
+      key="KodeOrganisasi"
+      value="Kode Organisasi"/>
+  <properties
+      key="KodeBKN"
+      value="Kode BKN"/>
+  <properties
+      key="UraianLengkap"
+      value="Uraian Lengkap Organisasi"/>
+  <properties
+      key="UraianPendek"
+      value="Uraian Pendek Organisasi"/>
+  <properties
+      key="Alamat"
+      value="Alamat Organisasi"/>
+</archimate:DataObject>

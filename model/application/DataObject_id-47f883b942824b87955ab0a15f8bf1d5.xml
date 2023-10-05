@@ -1,0 +1,23 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Pendidikan (copy)"
+    id="id-47f883b942824b87955ab0a15f8bf1d5">
+  <properties
+      key="IDPegawai"
+      value="IDPegawai"/>
+  <properties
+      key="IDRefTingkatPendidikan"
+      value="foreign key ke data ref jenis kelamin"/>
+  <properties
+      key="NamaLembagaPendidikan"/>
+  <properties
+      key="Jurusan"/>
+  <properties
+      key="JenisIjin"/>
+  <properties
+      key="TanggalLulus"/>
+  <properties
+      key="TahunLulus"/>
+  <properties
+      key="NomorIjasah"/>
+</archimate:DataObject>

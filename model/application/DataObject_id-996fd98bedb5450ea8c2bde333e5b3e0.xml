@@ -1,4 +1,20 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Hak Akses"
-    id="id-996fd98bedb5450ea8c2bde333e5b3e0"/>
+    id="id-996fd98bedb5450ea8c2bde333e5b3e0">
+  <properties
+      key="IDRole"
+      value="foreign key data role"/>
+  <properties
+      key="Aplikasi"
+      value="nama aplikasi"/>
+  <properties
+      key="Modul"
+      value="nama modul"/>
+  <properties
+      key="Fitur"
+      value="nama fitur"/>
+  <properties
+      key="isActive"
+      value="apakah role aktif"/>
+</archimate:DataObject>

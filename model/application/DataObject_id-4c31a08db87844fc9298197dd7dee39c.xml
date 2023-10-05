@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Keluarga"
+    id="id-4c31a08db87844fc9298197dd7dee39c">
+  <properties
+      key="IDPegawai"
+      value="foreign key ke data pokok"/>
+  <properties
+      key="IDJenisKelamin"
+      value="foreign key ke data ref jenis kelamin"/>
+  <properties
+      key="IDRefStatusHidupKeluarga"
+      value="foreign key ke data ref status hidup keluarga"/>
+  <properties
+      key="IDRefHubungan"
+      value="foreign key ke data ref hubungan"/>
+  <properties
+      key="IDRefStatusMenikah"
+      value="foreign key ke data ref status menikah"/>
+  <properties
+      key="Nama"
+      value="nama anggota keluarga pegawai"/>
+  <properties
+      key="TanggalLahir"
+      value="tanggal lahir anggota keluarga pegawai"/>
+  <properties
+      key="TempatLahir"
+      value="tempat lahir anggota keluarga pegawai"/>
+  <properties
+      key="IDRefTingkatPendidikan"
+      value="foreign key ke data ref tingkat pendidikan"/>
+</archimate:DataObject>

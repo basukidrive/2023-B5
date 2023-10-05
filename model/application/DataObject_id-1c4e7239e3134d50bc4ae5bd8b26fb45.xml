@@ -1,0 +1,38 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Pokok"
+    id="id-1c4e7239e3134d50bc4ae5bd8b26fb45">
+  <properties
+      key="Nama"
+      value="Nama dari pegawai"/>
+  <properties
+      key="NIP"
+      value="NIP Pegawai ASN"/>
+  <properties
+      key="Tempat Lahir"
+      value="Tempat Lahir Pegawai"/>
+  <properties
+      key="Tanggal Lahir"
+      value="Tanggal Lahir Pegawai"/>
+  <properties
+      key="Jenis Kelamin"
+      value="Jenis Kelamin Pegawai"/>
+  <properties
+      key="Agama"
+      value="Agama Pegawai"/>
+  <properties
+      key="Golongan Darah"
+      value="Golongan Darah Pegawai"/>
+  <properties
+      key="No Karpeg"
+      value="No Kartu Pegawai"/>
+  <properties
+      key="NPWP"
+      value="NPWP"/>
+  <properties
+      key="Gelar Depan"
+      value="Gelar Depan"/>
+  <properties
+      key="Gelar Belakang"
+      value="Gelar Belakang"/>
+</archimate:DataObject>
