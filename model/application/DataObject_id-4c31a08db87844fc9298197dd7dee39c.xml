@@ -1,7 +1,7 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Keluarga"
-    id="id-0d8c38e6dcd7420788c9636a268447fc">
+    id="id-4c31a08db87844fc9298197dd7dee39c">
   <properties
       key="IDPegawai"
       value="foreign key ke data pokok"/>
