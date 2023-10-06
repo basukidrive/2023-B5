@@ -176,7 +176,7 @@
       id="id-bd9c781a6cc244b1979e71024b4b2264">
     <bounds
         x="528"
-        y="605"
+        y="612"
         width="120"
         height="85"/>
     <archimateElement
@@ -188,11 +188,23 @@
       id="id-f266811590044c6dbefd8e7b6f01f6ab">
     <bounds
         x="672"
-        y="605"
+        y="612"
         width="120"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_id-0881d13911d146b9a80b5823c27c03ef.xml#id-0881d13911d146b9a80b5823c27c03ef"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3d04c5d312c24d8fa44dd45fdbef2e31">
+    <bounds
+        x="372"
+        y="612"
+        width="120"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-9a6646f757ff46cda76e8d94ae852d3f.xml#id-9a6646f757ff46cda76e8d94ae852d3f"/>
   </children>
 </archimate:ArchimateDiagramModel>
