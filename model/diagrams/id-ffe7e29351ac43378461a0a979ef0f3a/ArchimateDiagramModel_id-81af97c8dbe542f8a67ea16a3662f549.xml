@@ -596,7 +596,7 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-a7bbeb8458c645c69c27284d4300b6be"
             targetConnections="id-b03d2e0cf8c24896b375f1a41a3c5f25"
-            fillColor="#80ffff">
+            fillColor="#80ff80">
           <bounds
               x="168"
               y="24"
